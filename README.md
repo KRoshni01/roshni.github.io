@@ -1,5 +1,5 @@
-## Abhishek Resume
-Static site for [akabhishek.me](https://akabhishek.github.io/)
+## Roshni Resume
+Static site for [roshni.me](https://akabhishek.github.io/)
 
 ## Author & License
 - This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers 
